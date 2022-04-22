@@ -1,0 +1,9 @@
+.table{
+    border:1px solid black
+}
+tr{
+    border-bottom: 1px solid grey;
+}
+.tableRow{
+    border-bottom: 1px solid black;
+}
